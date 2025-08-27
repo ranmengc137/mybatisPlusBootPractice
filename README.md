@@ -6,6 +6,7 @@ MyBatis-Plus is an enhancement of the popular MyBatis framework that requires no
 - Automatic support for pagination, sorting, and query wrappers.
 - Simplified development of data access layers while retaining MyBatis flexibility.
 - ActiveRecord pattern support and code generator for rapid development.
+
 This project showcases how to efficiently use MyBatis-Plus to simplify CRUD operations, dynamic SQL, and other database interactions in a Spring Boot environment.
 
 ## Features
