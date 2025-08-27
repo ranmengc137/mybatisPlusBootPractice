@@ -1,7 +1,7 @@
-package com.example.pro.mapper;
+package com.example.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.example.pro.domain.Dynamic;
+import com.example.domain.Dynamic;
 import org.apache.ibatis.annotations.Mapper;
 
 @Mapper

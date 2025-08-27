@@ -1,4 +1,4 @@
-package com.example.pro.util;
+package com.example.util;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import org.springframework.util.ObjectUtils;

@@ -1,6 +1,6 @@
-package com.example.pro.service;
+package com.example.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.example.pro.domain.Dynamic;
+import com.example.domain.Dynamic;
 
 public interface IDynamicService extends IService<Dynamic> {}

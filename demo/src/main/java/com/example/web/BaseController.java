@@ -1,12 +1,12 @@
-package com.example.pro.web;
+package com.example.web;
 
 import cn.hutool.core.util.StrUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.example.pro.common.ApiResult;
-import com.example.pro.dto.PageParamDto;
-import com.example.pro.util.ApprenticeUtil;
+import com.example.common.ApiResult;
+import com.example.dto.PageParamDto;
+import com.example.util.ApprenticeUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

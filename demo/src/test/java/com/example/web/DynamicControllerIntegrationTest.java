@@ -1,7 +1,7 @@
-package com.example.pro.web;
+package com.example.web;
 
-import com.example.pro.domain.Dynamic;
-import com.example.pro.mapper.DynamicMapper;
+import com.example.domain.Dynamic;
+import com.example.mapper.DynamicMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

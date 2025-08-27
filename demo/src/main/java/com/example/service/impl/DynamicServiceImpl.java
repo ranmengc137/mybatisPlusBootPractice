@@ -1,9 +1,9 @@
-package com.example.pro.service.impl;
+package com.example.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.example.pro.domain.Dynamic;
-import com.example.pro.mapper.DynamicMapper;
-import com.example.pro.service.IDynamicService;
+import com.example.domain.Dynamic;
+import com.example.mapper.DynamicMapper;
+import com.example.service.IDynamicService;
 import org.springframework.stereotype.Service;
 
 @Service

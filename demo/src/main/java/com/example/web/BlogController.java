@@ -1,7 +1,7 @@
-package com.example.pro.web;
+package com.example.web;
 
-import com.example.pro.domain.Blog;
-import com.example.pro.service.IBlogService;
+import com.example.domain.Blog;
+import com.example.service.IBlogService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,7 +1,7 @@
-package com.example.pro.web;
+package com.example.web;
 
-import com.example.pro.domain.Blog;
-import com.example.pro.mapper.BlogMapper;
+import com.example.domain.Blog;
+import com.example.mapper.BlogMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
