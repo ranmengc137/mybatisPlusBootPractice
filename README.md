@@ -1,7 +1,13 @@
 # MybatisPlusBootPractice
 
 ## Overview
-MybatisPlusBootPractice is a sample project demonstrating the integration of MyBatis-Plus with Spring Boot. This project showcases how to efficiently use MyBatis-Plus to simplify CRUD operations, dynamic SQL, and other database interactions in a Spring Boot environment.
+MyBatis-Plus is an enhancement of the popular MyBatis framework that requires no modification to existing code. It provides powerful features such as:
+- Built-in CRUD operations to eliminate boilerplate DAO code.
+- Automatic support for pagination, sorting, and query wrappers.
+- Simplified development of data access layers while retaining MyBatis flexibility.
+- ActiveRecord pattern support and code generator for rapid development.
+
+This project showcases how to efficiently use MyBatis-Plus to simplify CRUD operations, dynamic SQL, and other database interactions in a Spring Boot environment.
 
 ## Features
 - Simplified CRUD operations using MyBatis-Plus
